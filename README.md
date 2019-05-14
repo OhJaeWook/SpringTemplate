@@ -1,1 +1,2 @@
 # SpringTemplate
+mysql + spring boot
